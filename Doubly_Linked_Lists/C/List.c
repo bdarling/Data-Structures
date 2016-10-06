@@ -54,7 +54,7 @@ typedef struct NodeObj{
 
 	}NodeObj;
 
-	typedef NodeObj* Node;
+	typedef NodeObj* Node;			//Initialize
 
 typedef struct ListObj{
 	Node front;
